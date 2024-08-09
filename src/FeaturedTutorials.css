@@ -1,0 +1,25 @@
+.featured-tutorials {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .featured-tutorials h2 {
+    margin-bottom: 20px;
+  }
+  
+  .tutorial-cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .tutorial-card {
+    width: 300px;
+    margin: 10px;
+  }
+  
+  .tutorial-card .users {
+    font-style: italic;
+    color: #555;
+  }
+  
